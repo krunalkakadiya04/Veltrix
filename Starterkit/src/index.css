@@ -1,0 +1,34 @@
+.layout {
+  width: 500px;
+}
+.onlayout {
+  width: fit-content;
+  height: fit-content;
+  padding: 50px;
+  background-color: #ffffffcc;
+  border-radius: 20px;
+}
+
+.bodyBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("https://www.edelweissfin.com/wp-content/uploads/2020/03/Investment-Banking-1-scaled.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.buttonn {
+  background-color: #578bbb !important;
+  width: 100%;
+  height: 45px;
+}
+
+.onlayout h3 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
